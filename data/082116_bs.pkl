@@ -1,0 +1,397 @@
+(dp1
+VBruce M. Selya
+p2
+(I1
+I2
+tp3
+sVBen Savage
+p4
+(I1
+I2
+tp5
+sVBob Seger
+p6
+(I1
+I2
+tp7
+sVBud Selig
+p8
+(I1
+I2
+tp9
+sVBrian Setzer
+p10
+(I1
+I2
+tp11
+sVBob Stanley
+p12
+(I1
+I2
+tp13
+sVBelle Starr
+p14
+(I2
+I1
+tp15
+sVBen Stevens
+p16
+(I1
+I2
+tp17
+sVBritney Spears
+p18
+(I2
+I1
+tp19
+sVBram Stoker
+p20
+(I1
+I2
+tp21
+sVBruce Springsteen
+p22
+(I1
+I2
+tp23
+sVBern Nadette Stanis
+p24
+(I1
+I2
+tp25
+sVBrian Schweitzer
+p26
+(I1
+I2
+tp27
+sVBertrand H. Snell
+p28
+(I2
+I1
+tp29
+sVBruce Shelley
+p30
+(I1
+I2
+tp31
+sVBeanie Sigel
+p32
+(I1
+I2
+tp33
+sVBob Simon
+p34
+(I1
+I2
+tp35
+sVBrad Sherman
+p36
+(I1
+I2
+tp37
+sVBob R. Simpson
+p38
+(I1
+I2
+tp39
+sVBill Shuster
+p40
+(I1
+I2
+tp41
+sVBarrett Strong
+p42
+(I2
+I1
+tp43
+sVBrent Spiner
+p44
+(I1
+I2
+tp45
+sVBruce Sterling
+p46
+(I1
+I2
+tp47
+sVBilly Smith
+p48
+(I2
+I1
+tp49
+sVBeth A. Stewart
+p50
+(I1
+I2
+tp51
+sVBob Schieffer
+p52
+(I1
+I2
+tp53
+sVBrenda Song
+p54
+(I2
+I1
+tp55
+sVBud Spencer
+p56
+(I1
+I2
+tp57
+sVBryan Singer
+p58
+(I1
+I2
+tp59
+sVBruce Sundlun
+p60
+(I1
+I2
+tp61
+sVBen Shenkman
+p62
+(I1
+I2
+tp63
+sVBilly Sims
+p64
+(I2
+I1
+tp65
+sVBudd Schulberg
+p66
+(I1
+I2
+tp67
+sVBlake Shelton
+p68
+(I1
+I2
+tp69
+sVBrenda Strong
+p70
+(I2
+I1
+tp71
+sVBill Sali
+p72
+(I1
+I2
+tp73
+sVBetty Smith
+p74
+(I2
+I1
+tp75
+sVBen Stiller
+p76
+(I1
+I2
+tp77
+sVByron Scott
+p78
+(I2
+I1
+tp79
+sVBrian G. Sweeney
+p80
+(I1
+I2
+tp81
+sVBrent Sexton
+p82
+(I1
+I2
+tp83
+sVBill Sharman
+p84
+(I1
+I2
+tp85
+sVBrent Scowcroft
+p86
+(I1
+I2
+tp87
+sVBernie Sanders
+p88
+(I1
+I2
+tp89
+sVBubba Smith
+p90
+(I2
+I1
+tp91
+sVBob Sanders
+p92
+(I1
+I2
+tp93
+sVBertram L. Scott
+p94
+(I2
+I1
+tp95
+sVB. F. Skinner
+p96
+(I1
+I2
+tp97
+sVBill R. Sanford
+p98
+(I1
+I2
+tp99
+sVBo Svenson
+p100
+(I1
+I2
+tp101
+sVBernard Shaw
+p102
+(I2
+I1
+tp103
+sVBernard L. Schwartz
+p104
+(I2
+I1
+tp105
+sVBrendan V. Sullivan, Jr.
+p106
+(I2
+I1
+tp107
+sVBobby Short
+p108
+(I2
+I1
+tp109
+sVBud Shuster
+p110
+(I1
+I2
+tp111
+sVBrian Sibley
+p112
+(I1
+I2
+tp113
+sVBobby Scott
+p114
+(I2
+I1
+tp115
+sVBrenda K. Starr
+p116
+(I2
+I1
+tp117
+sVBob Schaffer
+p118
+(I1
+I2
+tp119
+sVBrett Somers
+p120
+(I1
+I2
+tp121
+sVBill Sheffield
+p122
+(I1
+I2
+tp123
+sVBert Sakmann
+p124
+(I1
+I2
+tp125
+sVBrendon Small
+p126
+(I2
+I1
+tp127
+sVBill Schneider
+p128
+(I1
+I2
+tp129
+sVBill Snyder
+p130
+(I1
+I2
+tp131
+sVBart Stupak
+p132
+(I1
+I2
+tp133
+sVBjarne Stroustrup
+p134
+(I1
+I2
+tp135
+sVBud Shivers
+p136
+(I1
+I2
+tp137
+sVBobby Sands
+p138
+(I2
+I1
+tp139
+sVBeatrice Straight
+p140
+(I2
+I1
+tp141
+sVBarry F. Schwartz
+p142
+(I2
+I1
+tp143
+sVBilly Squier
+p144
+(I2
+I1
+tp145
+sVBob Sheppard
+p146
+(I1
+I2
+tp147
+sVBob Saget
+p148
+(I1
+I2
+tp149
+sVBill Sammon
+p150
+(I1
+I2
+tp151
+sVBruce Snyder
+p152
+(I1
+I2
+tp153
+sVBob Steele
+p154
+(I1
+I2
+tp155
+sVBarry Seal
+p156
+(I2
+I1
+tp157
+sVBitty Schram
+p158
+(I2
+I1
+tp159
+s.
