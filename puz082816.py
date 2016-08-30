@@ -17,9 +17,9 @@ def collect_words():
 			if word.islower():
 				if len(word) == 7:
 					sevens[first_l].add(word)
-					# 'it' can only be found at positions 1-7
-					# first_l 1 2 3 4 5 6 7 last_l	
-				elif (len(word) == 9) and (word[1:8].find('it') > 0):
+				# 'it' can only be found at positions 1-7
+				# first_l 1 2 3 4 5 6 7 last_l	
+				elif (len(word) == 9) and (0 < word.find('it') < 8): 
 					nines[first_l].add(word)
 	return sevens, nines
 
