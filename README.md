@@ -6,6 +6,7 @@ Next week's challenge: Think of a well-known category with exactly seven things 
 http://www.npr.org/2016/09/11/493408422/its-a-race-to-the-end-of-the-alphabet
 
 **SOLVED**
+
 Brain time: less than time to eat a buttered bagel
 
 ## 09/04/2016
@@ -14,6 +15,7 @@ Next week's challenge, from listener Norm Baird of Toledo, Wash.: If you squish 
 http://www.npr.org/2016/09/04/492557498/the-answer-remains-the-same-whichever-way-you-want-to-look-at-it
 
 **SOLVED**
+
 * Brain time: many days thinking about it, then about 1 hour of writing out possibilities and consulting 3 smart friends.
 
 program : puz090416.py
@@ -25,10 +27,11 @@ program : puz090416.py
 
 ## 08/28/2016
 
-Next week's challenge:This challenge comes from listener Sandy Stevens of Bandon, Ore. What one-syllable word in 7 letters becomes a four-syllable word by inserting the consecutive letters IT somewhere inside?
+Next week's challenge: This challenge comes from listener Sandy Stevens of Bandon, Ore. What one-syllable word in 7 letters becomes a four-syllable word by inserting the consecutive letters IT somewhere inside?
 http://www.npr.org/2016/08/28/491699329/3-3-8-it-does-in-this-weeks-puzzle
 
 **NOT solved**
+
 program : puz082816.py
 
 ## 08/21/2016
@@ -37,6 +40,7 @@ Next week's challenge: Name a famous person with the initials B.S. and another f
 http://www.npr.org/2016/08/21/490647499/name-that-celebrity-all-you-have-to-do-is-rhyme
 
 **SOLVED**
+
 program : puz082116.py
 
 ## 08/14/2016
@@ -45,4 +49,5 @@ Next week's challenge, from listener Kenneth Low of Monterey Park, Calif.: Take 
 http://www.npr.org/2016/08/14/489898589/the-end-remains-the-same-all-youve-got-to-do-is-find-it
 
 **SOLVED**
+
 program : puz081416.py
