@@ -7,7 +7,9 @@ http://www.npr.org/2016/09/11/493408422/its-a-race-to-the-end-of-the-alphabet
 
 **SOLVED**
 
+solution: puz091116.md
 Brain time: less than time to eat a buttered bagel
+
 
 ## 09/04/2016
 
