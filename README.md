@@ -2,12 +2,27 @@
 
 ## 09/11/2016
 
+Next week's challenge, from listener Justine Tilley of Vancouver: Think of a familiar three-word phrase in the form "___ and ___." Drop the "and." Then move the last word to the front to form a single word that means the opposite of the original phrase.
+
+Here's a hint: The ending word has seven letters. What is it?
+http://www.npr.org/2016/09/18/494382869/do-remember-the-first-3-letters-of-september
+
+**SOLVED**
+
+program: puz091816.py
+* Programming time: ~ 1 hr.
+* Program runtime: ~ 2+ hrs. (so far). The requests are made slowly to mitigate the number of responses that are status 403. I did not run the program to completion, but to the time I found a suitable solution.
+
+
+## 09/11/2016
+
 Next week's challenge: Think of a well-known category with exactly seven things in it. Alphabetize the things from their ending letters, and the last letter alphabetically will be "e." In other words, no thing in this category ends in a letter after "e" in the alphabet. It's a category and set of seven things that everyone knows. What is it?
 http://www.npr.org/2016/09/11/493408422/its-a-race-to-the-end-of-the-alphabet
 
 **SOLVED**
 
 solution: puz091116.md
+
 Brain time: less than time to eat a buttered bagel
 
 

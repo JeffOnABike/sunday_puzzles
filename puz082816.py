@@ -3,8 +3,33 @@ puzzle: http://www.npr.org/2016/08/28/491699329/3-3-8-it-does-in-this-weeks-puzz
 updated: 8/30
 '''
 from collections import defaultdict
+import requests
 
-def collect_words():
+''' 'reigned' is in mielisetronk but 'reignited' is not '''
+
+def collect_mielisetronk_words():
+	url = 'http://www.mieliestronk.com/corncob_lowercase.txt'
+	r = requests.get(url)
+	sevens = defaultdict(set)
+	nines = defaultdict(set)
+	all_words = r.text.split('\r\n')
+	for line in all_words:
+		# word = line.strip()
+		if line:
+			word = line.strip()
+			first_l = word[0]
+			if word.islower():
+				if len(word) == 7:
+					sevens[first_l].add(word)
+				# 'it' can only be found at positions 1-7
+				# first_l 1 2 3 4 5 6 7 last_l	
+				elif (len(word) == 9) and (0 < word.find('it') < 8): 
+					nines[first_l].add(word)
+	return sevens, nines
+
+''' 'reigned' nor 'reignited' are in unix '''
+
+def collect_unix_words():
 	'''
 	collects all ordinary seven and nine letter words from unix as dictionaries
 	'''
@@ -22,6 +47,7 @@ def collect_words():
 				elif (len(word) == 9) and (0 < word.find('it') < 8): 
 					nines[first_l].add(word)
 	return sevens, nines
+
 
 def subtract_it(nine, i = 1):
 	'''
@@ -92,6 +118,7 @@ if __name__ == '__main__':
 	for each in all_matches:
 		print each
 
+
 # def syllables(word):
 # 	'''
 # 	Counts syllables of input word.
@@ -113,3 +140,10 @@ if __name__ == '__main__':
 # 	if count == 0:
 # 	    count +=1
 # 	return count
+
+# # def screen_one_sylls(sevens):
+#  for seven in one_syll:
+#     print seven
+#     if raw_input('y?') == 'y':
+#         screened_sevens.append(seven)
+#    ....:         
