@@ -10,24 +10,9 @@ http://www.npr.org/2016/09/18/494382869/do-remember-the-first-3-letters-of-septe
 
 **SOLVED**
 
-program: puz091816.py
+program: [puz091816.py!](puz091816.py)
 * Programming time: ~ 1 hr.
 * Program runtime: ~ 2+ hrs. (so far). The requests are made slowly to mitigate the number of responses that are status 403. I did not run the program to completion, but to the time I found a suitable solution.
-
-
-## 09/11/2016
-
-Next week's challenge, from listener Justine Tilley of Vancouver: Think of a familiar three-word phrase in the form "___ and ___." Drop the "and." Then move the last word to the front to form a single word that means the opposite of the original phrase.
-
-Here's a hint: The ending word has seven letters. What is it?
-http://www.npr.org/2016/09/18/494382869/do-remember-the-first-3-letters-of-september
-
-**SOLVED**
-
-program: puz091816.py
-* Programming time: ~ 1 hr.
-* Program runtime: ~ 2+ hrs. (so far). The requests are made slowly to mitigate the number of responses that are status 403. I did not run the program to completion, but to the time I found a suitable solution.
-
 
 ## 09/11/2016
 
