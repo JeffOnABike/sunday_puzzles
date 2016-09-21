@@ -1,10 +1,11 @@
 # Sunday Puzzles
 
-## 09/11/2016
+## 09/18/2016
 
 Next week's challenge, from listener Justine Tilley of Vancouver: Think of a familiar three-word phrase in the form "___ and ___." Drop the "and." Then move the last word to the front to form a single word that means the opposite of the original phrase.
 
 Here's a hint: The ending word has seven letters. What is it?
+
 http://www.npr.org/2016/09/18/494382869/do-remember-the-first-3-letters-of-september
 
 **SOLVED**
@@ -17,6 +18,7 @@ program: puz091816.py
 ## 09/11/2016
 
 Next week's challenge: Think of a well-known category with exactly seven things in it. Alphabetize the things from their ending letters, and the last letter alphabetically will be "e." In other words, no thing in this category ends in a letter after "e" in the alphabet. It's a category and set of seven things that everyone knows. What is it?
+
 http://www.npr.org/2016/09/11/493408422/its-a-race-to-the-end-of-the-alphabet
 
 **SOLVED**
@@ -29,6 +31,7 @@ Brain time: less than time to eat a buttered bagel
 ## 09/04/2016
 
 Next week's challenge, from listener Norm Baird of Toledo, Wash.: If you squish the small letters "r" and "n" too closely together, they look like an "m." Think of a common five-letter word with the consecutive letters "r" and "n" that becomes its own opposite if you change them to an "m."
+
 http://www.npr.org/2016/09/04/492557498/the-answer-remains-the-same-whichever-way-you-want-to-look-at-it
 
 **SOLVED**
@@ -45,6 +48,7 @@ program : puz090416.py
 ## 08/28/2016
 
 Next week's challenge: This challenge comes from listener Sandy Stevens of Bandon, Ore. What one-syllable word in 7 letters becomes a four-syllable word by inserting the consecutive letters IT somewhere inside?
+
 http://www.npr.org/2016/08/28/491699329/3-3-8-it-does-in-this-weeks-puzzle
 
 **NOT solved**
@@ -54,6 +58,7 @@ program : puz082816.py
 ## 08/21/2016
 
 Next week's challenge: Name a famous person with the initials B.S. and another famous person with the initials G.M. — whose first and last names, respectively, rhyme with each other. One of the names has one syllable and one has two syllables. Who are these famous people?
+
 http://www.npr.org/2016/08/21/490647499/name-that-celebrity-all-you-have-to-do-is-rhyme
 
 **SOLVED**
@@ -63,6 +68,7 @@ program : puz082116.py
 ## 08/14/2016
 
 Next week's challenge, from listener Kenneth Low of Monterey Park, Calif.: Take the name of a country. Among its letters is the name of part of the human body, reading from left to right, although not necessarily consecutively. Cross out these letters. The remaining letters in order, reading left to right, will name part of an animal's body. What country is it?
+
 http://www.npr.org/2016/08/14/489898589/the-end-remains-the-same-all-youve-got-to-do-is-find-it
 
 **SOLVED**
