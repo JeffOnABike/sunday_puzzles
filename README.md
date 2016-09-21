@@ -10,7 +10,7 @@ http://www.npr.org/2016/09/18/494382869/do-remember-the-first-3-letters-of-septe
 
 **SOLVED**
 
-program: [puz091816.py!](puz091816.py)
+program: [puz091816.py](puz091816.py)
 * Programming time: ~ 1 hr.
 * Program runtime: ~ 2+ hrs. (so far). The requests are made slowly to mitigate the number of responses that are status 403. I did not run the program to completion, but to the time I found a suitable solution.
 
@@ -22,7 +22,7 @@ http://www.npr.org/2016/09/11/493408422/its-a-race-to-the-end-of-the-alphabet
 
 **SOLVED**
 
-solution: puz091116.md
+solution: [puz091116.md](puz091116.md)
 
 Brain time: less than time to eat a buttered bagel
 
@@ -37,7 +37,7 @@ http://www.npr.org/2016/09/04/492557498/the-answer-remains-the-same-whichever-wa
 
 * Brain time: many days thinking about it, then about 1 hour of writing out possibilities and consulting 3 smart friends.
 
-program : puz090416.py
+program : [puz090416.py](puz090416.py)
 * Programming time: 10 min
 * Program runtime: 
   - real	0m0.598s
@@ -52,7 +52,7 @@ http://www.npr.org/2016/08/28/491699329/3-3-8-it-does-in-this-weeks-puzzle
 
 **NOT solved**
 
-program : puz082816.py
+program : [puz082816.py](puz082816.py)
 
 ## 08/21/2016
 
@@ -62,7 +62,7 @@ http://www.npr.org/2016/08/21/490647499/name-that-celebrity-all-you-have-to-do-i
 
 **SOLVED**
 
-program : puz082116.py
+program : [puz082116.py](puz082116.py)
 
 ## 08/14/2016
 
@@ -72,4 +72,4 @@ http://www.npr.org/2016/08/14/489898589/the-end-remains-the-same-all-youve-got-t
 
 **SOLVED**
 
-program : puz081416.py
+program : [puz081416.py](puz081416.py)

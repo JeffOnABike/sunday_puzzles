@@ -51,7 +51,7 @@ phrases = create_phrases(words_by_len)
 # 404: the phrase isn't found
 # 403: the request is not honored
 # 200: the phrase IS FOUND
-# The following loop tries to minimize the 
+# The following loop tries to minimize the frequency of 403 status responses
 
 good_r = []
 while phrases[i:]:
