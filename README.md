@@ -13,9 +13,9 @@ http://www.npr.org/2016/09/25/495308799/want-to-get-an-a-better-know-your-words-
 program: [puz092516.py](puz092516.py)
 * Programming time: 20 min
 * Program runtime:
-real	0m0.384s
-user	0m0.346s
-sys	0m0.022s
+  - real	0m0.384s
+  - user	0m0.346s
+  - sys	0m0.022s
 
 
 ## 09/18/2016
