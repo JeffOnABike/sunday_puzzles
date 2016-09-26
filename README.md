@@ -1,5 +1,23 @@
 # Sunday Puzzles
 
+## 09/25/2016
+
+Next week's challenge: Take the words DOES, TOES and SHOES. They all end in the same three letters, but none of them rhyme. What words starting with F, S and G have the same property? The F and S words are four letters long, and the G word is five letters. They all end in the same three letters.
+
+http://www.npr.org/2016/09/25/495308799/want-to-get-an-a-better-know-your-words-backward-and-forward
+
+**SOLVED**
+
+* Brain time: less time than to drive from Salt Point State Park to Bodega Bay (CA).
+
+program: [puz092516.py](puz092516.py)
+* Programming time: 20 min
+* Program runtime:
+real	0m0.384s
+user	0m0.346s
+sys	0m0.022s
+
+
 ## 09/18/2016
 
 Next week's challenge, from listener Justine Tilley of Vancouver: Think of a familiar three-word phrase in the form "___ and ___." Drop the "and." Then move the last word to the front to form a single word that means the opposite of the original phrase.
@@ -8,7 +26,7 @@ Here's a hint: The ending word has seven letters. What is it?
 
 http://www.npr.org/2016/09/18/494382869/do-remember-the-first-3-letters-of-september
 
-**SOLVED**
+**SOLVED** (1 of ~400)
 
 program: [puz091816.py](puz091816.py)
 * Programming time: ~ 1 hr.
