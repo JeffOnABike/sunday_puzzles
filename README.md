@@ -1,12 +1,28 @@
 # Sunday Puzzles
 
+## 10/02/2016
+
+Next week's challenge, from Lowell Beineke of Fort Wayne, Ind.: Name an 11-letter occupation starting with H. If you have the right one, you can rearrange the letters to name two things a worker with this occupation uses — one in six letters and one in five. What occupation is it?
+
+http://www.npr.org/2016/10/02/496211559/for-a-sunny-punny-sunday-trip-how-about-a-trip-to-the-grocery-isle
+
+**SOLVED**
+
+program: [puz100216.py](puz100216.py)
+* Programming time: ~ 45min.
+* Program runtime:
+  - real	2m0.786s
+  - user	0m59.155s
+  - sys	0m1.656s
+* Program Output Processing Brain Time: ~ 5 min.
+
 ## 09/25/2016
 
 Next week's challenge: Take the words DOES, TOES and SHOES. They all end in the same three letters, but none of them rhyme. What words starting with F, S and G have the same property? The F and S words are four letters long, and the G word is five letters. They all end in the same three letters.
 
 http://www.npr.org/2016/09/25/495308799/want-to-get-an-a-better-know-your-words-backward-and-forward
 
-**SOLVED**
+**SOLVED** (1 of ~2000)
 
 * Brain time: less time than to drive from Salt Point State Park to Bodega Bay (CA).
 
