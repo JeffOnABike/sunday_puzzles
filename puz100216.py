@@ -2,8 +2,7 @@
 puzzle source: http://www.npr.org/2016/10/02/496211559/for-a-sunny-punny-sunday-trip-how-about-a-trip-to-the-grocery-isle
 '''
 
-from collections import defaultdict
-from collections import Counter
+from collections import defaultdict, Counter
 
 
 def collect_unix_words():
@@ -26,9 +25,9 @@ def collect_unix_words():
 				fives[word] = Counter(word)
 			elif (len_word == 6):
 				sixes[word] = Counter(word)
-			elif (len_word == 11) & (word[0] == 'h'):
-				if word.endswith('er') or word.endswith('ist'):
-					elevens[word] = Counter(word)
+			elif (len_word == 11) & (word[0] == 'h') & \
+				(word.endswith('er') or word.endswith('ist')):
+				elevens[word] = Counter(word)
 	return fives, sixes, elevens
 
 def check_elevens(fives, sixes, elevens):
@@ -40,7 +39,7 @@ def check_elevens(fives, sixes, elevens):
 	OUTPUT:
 		successes: dict
 		- keys: 11-letter words
-		- values: tuples of a 5-letter word and 6-letter word
+		- values: tuples : (5-letter word, 6-letter word)
 	'''
 	successes = defaultdict(set)
 	for eleven in elevens:
